@@ -1,3 +1,3 @@
 xpdo
 ====
-Simple PDO wrapper with only two methods
+Simple PDO wrapper with two methods q() and x()
