@@ -3,7 +3,7 @@
 class xpdo {
 
 	private static $pdo;
-	private static $dsn = 'mysql:dbname=testy_nested_sets;host=127.0.0.1';
+	private static $dsn = 'mysql:dbname=database_name;host=127.0.0.1';
 	private static $user = 'root';
 	private static $pass = '';
 
